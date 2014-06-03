@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>
+            {{ site.title }}
+        </title>
+        <link
+            rel="stylesheet"
+            href="{{ site.baseurl }}assets/css/normalize.css"
+        />
+        <link
+            rel="stylesheet"
+            href="{{ site.baseurl }}assets/css/main.css"
+        />
+        <meta
+            name="description"
+            content="Looking for a project idea to keep you busy from Friday evening until Monday morning?"
+        />
+    </head>
+    <body>
+        <div class="wrapper">
+            {{ content }}
+        </div>
+        <div class="footer">
+            <p>
+                <strong>Weekend Thing...</strong> is a project by <a href="http://omgmog.net" rel="author" target="_blank">Max Glenister</a>.
+            </p>
+            <p>
+                Notice anything wrong, or want to help improve this project? <a href="http://github.com/omgmog/weekendthing/" target="_blank">Fork the project on GitHub</a>.
+            </a>
+        </div>
+
+        {% include ga.html %}
+        <script src="{{ site.baseurl }}assets/js/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}assets/js/masonry.pkgd.min.js"></script>
+        <script src="{{ site.baseurl }}assets/js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,44 @@
+- title: Create a site to collect project ideas
+  description: "Basic design skills, knowledge of Jekyll and GitHub pages, a free evening or two and lots of ideas. Why not make your own Weekend Thing?"
+  picture: http://i.imgur.com/RwJcWlf.png
+  tags: ['software', 'jekyll', 'github', 'website', 'inception']
+  links:
+    - url: https://pages.github.com/
+      title: GitHub Pages
+    - url: http://jekyllrb.com/
+      title: Jekyll
+
+- title: Make an LED blink using JavaScript and an Arduino
+  description: "We've all got to start somewhere. A blinking LED is the 'Hello World' of hardware programming. Long weekend? Why stop at just one LED?"
+  picture: http://i.imgur.com/ZqfJ4l2.png
+  tags: ['software', 'hardware', 'arduino', 'nodejs']
+  links:
+    - url: http://node-ardx.org/exercises/1
+      title: Arduino Experimenter's Guide for NodeJS
+    - url: http://blog.safaribooksonline.com/2013/07/16/javascript-powered-arduino-with-johnny-five/
+      title: JavaScript Powered Arduino with Johnny-Five - Safari Books Online
+    - url: https://github.com/rwaldron/johnny-five
+      title: Johnny Five for nodejs
+
+- title: Create a nodebot
+  description: "Some JavaScript knowledge, an Arduino and some basic electronic components are all you need to get started."
+  picture: http://i.imgur.com/ZmLN8LV.png
+  tags: ['software', 'hardware', 'arduino', 'nodejs']
+  links:
+    - url: http://nodebots.io/
+      title: NodeBots homepage
+    - url: https://github.com/rwaldron/johnny-five
+      title: Johnny Five for nodejs
+    - url: http://dailyjs.com/2013/07/25/nodebots/
+      title: Getting Started with Nodebots - DailyJS
+
+- title: Automate something
+  description: "Life is full of tediously boring tasks. Why not automate them? You could use a new language, or an army of small robots or cats."
+  picture: http://i.imgur.com/XVTO2dH.png
+  tags: ['software', 'hardware', 'automation']
+
+- title: Hack on an old gadget
+  description: "If you've got a drawer full of old gadgets, why let them go to waste? Old smart phones can be used for fun hacky projects, and old computers can be repurposed for web servers or whatever you like. You don't need to buy a new gadget!"
+  picture: http://i.imgur.com/7wAEHry.png
+  tags: ['software', 'hardware', 'hack', 'gadget', 'repurpose', 'linux']
+
