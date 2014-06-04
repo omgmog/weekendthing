@@ -42,3 +42,14 @@
   picture: http://i.imgur.com/7wAEHry.png
   tags: ['software', 'hardware', 'hack', 'gadget', 'repurpose', 'linux']
 
+- title: Create a Chrome extension
+  description: "If you have some HTML/CSS/JavaScript knowledge you're already equipped with the skills to make extensions for Google Chrome. There is a bit of a learning curve, but once you've got your head around the content script/background page/popup page concepts and messaging protocols it's quite straight forward JavaScript."
+  picture: http://i.imgur.com/aaK90aY.png
+  tags: ['software', 'javascript', 'browser', 'automation']
+  links: 
+    - url: http://extensionizr.com/
+      title: Extensionizr - boilerplate for your Chrome extension
+    - url: https://developer.chrome.com/extensions/getstarted
+      title: "Getting Started: Building a Chrome Extension"
+    - url: http://www.lullabot.com/blog/article/creating-simple-chrome-extension
+      title: Creating a Simple Chrome Extension
